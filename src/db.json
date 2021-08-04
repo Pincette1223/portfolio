@@ -1,0 +1,94 @@
+{
+  "meta": {
+    "title": "Pincette",
+    "defaultLanguage": "Korean"
+  },
+  "aboutMe": {
+    "name": "Pincette",
+    "nickName": "Pincette1223",
+    "profileImg": "../assets/images/Pincette.jpg",
+    "email": "vlstpt812@gmail.com",
+    "githubUrl": "https://github.com/Pincette1223",
+    "blogUrl": "https://pincette1223.github.io/"
+  },
+
+  "skillSets": [
+    {
+      "category": "Front End Skills",
+      "skills": [
+        { "skill": "Javascript", "level": "3" },
+        { "skill": "HTML/CSS", "level": "4" },
+        { "skill": "React", "level": "2" },
+        { "skill": "Typescript", "level": "1" }
+      ]
+    },
+    {
+      "category": "Back End Skills",
+      "skills": [
+        { "skill": "Python", "level": "3" },
+        { "skill": "Django", "level": "2" },
+        { "skill": "Django-Rest-Framework" },
+        { "skill": "Java", "level": "1" },
+        { "skill": "Spring" },
+        { "skill": "Ruby" },
+        { "skill": "Ruby-on-Rails" }
+      ]
+    },
+    {
+      "category": "Collaboration Skills",
+      "skills": [
+        { "skill": "Git/Github" },
+        { "skill": "Notion" },
+        { "skill": "Slack" }
+      ]
+    },
+    {
+      "category": "Etc...",
+      "skills": [{ "skill": "Netlify" }, { "skill": "Heroku" }]
+    }
+  ],
+
+  "projects": [
+    {
+      "imgUrl": "../assets/images/blog.PNG",
+      "githubUrl": "https://github.com/Pincette1223/Pincette1223.github.io",
+      "projectUrl": "https://Pincette1223.github.io",
+      "title": "GitHub Blog",
+      "term": "21.07.29 v2.3.0",
+      "description": "Jekyll을 이용한 핀셋의 개발일지",
+      "attribution": "Pincette's development log with Jekyll",
+      "tags": ["GitHub", "Blog", "Jekyll"]
+    },
+    {
+      "imgUrl": "/assets/images/homepage.png",
+      "githubUrl": "https://github.com/Pincette1223/homepage",
+      "projectUrl": "https://Pincette1223.github.io/homepage",
+      "title": "My Homepage",
+      "term": "21.07.24 v1.3.0",
+      "description": "HTML, CSS, JS를 이용한 핀셋의 개인 홈페이지",
+      "attribution": "Pincette's homepage using HTML, CSS, and JS",
+      "tags": ["HTML", "CSS", "Javascript", "Homepage"]
+    }
+  ],
+
+  "timestamp": [
+    {
+      "title": "열심히 코딩 중...",
+      "when": "21.01.19 ~ ",
+      "organizer": "Hard Coding",
+      "tags": ["Coding"]
+    },
+    {
+      "title": "깃허브 가입",
+      "when": "20.07.27",
+      "organizer": "Joined GitHub",
+      "tags": ["GitHub"]
+    },
+    {
+      "title": "첫 코딩",
+      "when": "20.04.12",
+      "organizer": "First Coding",
+      "tags": ["First"]
+    }
+  ]
+}
