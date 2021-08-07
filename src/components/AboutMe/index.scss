@@ -16,12 +16,12 @@
       height: 17rem;
       display: flex;
       background: black;
-      border-radius: v.$border-radius;
+      border-radius: 50%;
       box-shadow: v.$box-shadow;
 
       img {
         object-fit: contain;
-        border-radius: v.$border-radius;
+        border-radius: 50%;
         width: 100%;
         height: auto;
         border: 1px solid black;
